@@ -1,6 +1,5 @@
 <template>
-  <h1 class="text-center">Ciao</h1>
-  <i class="fa fa-solid fa-home"></i>
+  
 </template>
 
 <script>
